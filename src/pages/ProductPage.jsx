@@ -1,6 +1,7 @@
 import { motion } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
 import products from '../data/products.json';
+import { asset } from '../lib/asset';
 
 const EASE = [0.16, 1, 0.3, 1];
 
@@ -31,7 +32,7 @@ export default function ProductPage() {
       >
         <div className="product-gallery">
           {product.images.map((src) => (
-            <img key={src} src={`/${src}`} alt={product.title} />
+            <img key={src} src={asset(src)} alt={product.title} />
           ))}
         </div>
 

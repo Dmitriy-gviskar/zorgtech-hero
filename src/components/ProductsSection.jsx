@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import { Link } from 'react-router-dom';
+import { asset } from '../lib/asset';
 
 const EASE = [0.16, 1, 0.3, 1];
 const MotionLink = motion.create(Link);
@@ -36,14 +37,14 @@ export default function ProductsSection() {
             <span className="showcase-hero-link">Смотреть модели →</span>
           </div>
           <div className="showcase-hero-img">
-            <img src="/img/ad892332ab2c9820671bd13fd80ddcfd.png" alt="Diamant F" width="904" height="1800" />
+            <img src={asset("img/ad892332ab2c9820671bd13fd80ddcfd.png")} alt="Diamant F" width="904" height="1800" />
           </div>
         </MotionLink>
 
         <div className="showcase-side">
           <MotionLink to="/catalog/stoly" className="prod-card" {...reveal(0.2)}>
             <div className="prod-card-img">
-              <img src="/img/1u9jbdym7onkf1xblb2mjtdxwu9aazdl.png" alt="Diamant N" width="848" height="848" />
+              <img src={asset("img/1u9jbdym7onkf1xblb2mjtdxwu9aazdl.png")} alt="Diamant N" width="848" height="848" />
             </div>
             <div className="prod-card-body">
               <p className="prod-card-tag">Столы</p>
@@ -58,7 +59,7 @@ export default function ProductsSection() {
 
           <MotionLink to="/catalog/nastennyy" className="prod-card" {...reveal(0.25)}>
             <div className="prod-card-img">
-              <img src="/img/a688c0812e06ff8858036a49e6fa1eb2.png" alt="Diamant W" width="900" height="569" />
+              <img src={asset("img/a688c0812e06ff8858036a49e6fa1eb2.png")} alt="Diamant W" width="900" height="569" />
             </div>
             <div className="prod-card-body">
               <p className="prod-card-tag">Настенные</p>

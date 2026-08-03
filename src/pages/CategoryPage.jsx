@@ -3,11 +3,12 @@ import { Link, useParams } from 'react-router-dom';
 import PageHeader from '../components/PageHeader';
 import categories from '../data/categories.json';
 import { CATEGORIES_META } from '../data/categoriesMeta';
+import { asset } from '../lib/asset';
 
 const EASE = [0.16, 1, 0.3, 1];
 const MotionLink = motion.create(Link);
 
-const imgUrl = (path) => `/img/${path.split('/').pop()}`;
+const imgUrl = (path) => asset(`img/${path.split('/').pop()}`);
 
 export default function CategoryPage() {
   const { slug } = useParams();
