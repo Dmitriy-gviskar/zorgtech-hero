@@ -224,7 +224,7 @@
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #000;
+  background: var(--accent);
   flex-shrink: 0;
 }
 
@@ -265,7 +265,7 @@
 }
 
 .btn-primary {
-  background: #000;
+  background: var(--accent);
   color: #fff;
 }
 
@@ -469,6 +469,7 @@
 .showcase-hero-link {
   font-size: 14px;
   font-weight: 500;
+  color: var(--accent);
 }
 
 .showcase-hero-img {
@@ -563,6 +564,7 @@
 .prod-card-link {
   font-size: 13px;
   font-weight: 500;
+  color: var(--accent);
 }
 
 /* ---------- Solutions ---------- */
@@ -630,6 +632,7 @@
   letter-spacing: -0.02em;
   line-height: 1;
   margin-bottom: 8px;
+  color: var(--accent);
 }
 
 .benefit-item h3 {

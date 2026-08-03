@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+:root {
+  --accent: #2bABDD;
+}
+
 html,
 body {
   height: 100%;
