@@ -146,6 +146,10 @@
   white-space: nowrap;
 }
 
+.tags-pill a:hover {
+  color: var(--accent);
+}
+
 @media (min-width: 768px) {
   .tags-pill {
     display: flex;
@@ -599,6 +603,10 @@
   transform: translateY(-2px);
 }
 
+.sol-card:hover h3 {
+  color: var(--accent);
+}
+
 .sol-card h3 {
   font-size: 17px;
   font-weight: 600;
@@ -736,6 +744,10 @@
   justify-content: center;
 }
 
+.site-footer-links a:hover {
+  color: var(--accent);
+}
+
 /* ---------- Inner pages (catalog, product, about, etc.) ---------- */
 
 .inner-page {
@@ -758,7 +770,7 @@
 }
 
 .back-link:hover {
-  color: #000;
+  color: var(--accent);
 }
 
 .page-title {
@@ -837,6 +849,10 @@
   transform: translateY(-2px);
 }
 
+.cat-card:hover h3 {
+  color: var(--accent);
+}
+
 .cat-card h3 {
   font-size: 17px;
   font-weight: 600;
@@ -899,6 +915,64 @@
   font-size: 13px;
   font-weight: 500;
   color: rgba(0, 0, 0, 0.8);
+}
+
+/* ---------- Category compare table ---------- */
+
+.compare-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.55);
+  margin: 56px 0 12px;
+}
+
+.compare-wrap {
+  overflow-x: auto;
+  border-radius: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.compare {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.compare th {
+  text-align: left;
+  padding: 12px 20px;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.45);
+  background: #fafafa;
+}
+
+.compare td {
+  padding: 12px 20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.compare td:first-child a {
+  color: #000;
+  font-weight: 500;
+}
+
+.compare td:first-child a:hover {
+  color: var(--accent);
+}
+
+.compare th.num,
+.compare td.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.compare tr:hover td {
+  background: #fafafa;
 }
 
 /* ---------- Product detail ---------- */
@@ -1021,6 +1095,7 @@
   font-size: 36px;
   font-weight: 600;
   letter-spacing: -0.02em;
+  color: var(--accent);
 }
 
 .stat-num span {
@@ -1137,6 +1212,7 @@
   font-size: 28px;
   font-weight: 600;
   letter-spacing: -0.02em;
+  color: var(--accent);
 }
 
 .stat-line .stat span {

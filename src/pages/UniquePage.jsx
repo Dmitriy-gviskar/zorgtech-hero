@@ -1,6 +1,9 @@
 import PageHeader from '../components/PageHeader';
+import { useTitle } from '../lib/useTitle';
 
 export default function UniquePage() {
+  useTitle('Уникальные решения');
+
   return (
     <div className="inner-page">
       <PageHeader back="/catalog" backLabel="В каталог" title="Уникальные решения" />
