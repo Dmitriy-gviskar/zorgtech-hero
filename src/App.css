@@ -36,6 +36,11 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  /* Safari sometimes fails to repaint a <video> after the parent's
+     Framer Motion opacity/scale animation settles, leaving it stuck
+     invisible. Forcing its own compositing layer fixes it. */
+  transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
 /* ---------- Navbar ---------- */
@@ -312,6 +317,7 @@
   align-items: center;
   justify-content: center;
   gap: 12px;
+  transform: translateZ(0);
 }
 
 .menu-overlay-close {
@@ -348,6 +354,9 @@
   color: #fff;
   opacity: 0.85;
   transition: opacity 0.2s;
+  /* same Safari repaint issue as .video-wrap video — AnimatePresence's
+     staggered children can end up invisible after their enter transition */
+  transform: translateZ(0);
 }
 
 .menu-overlay-links a:hover {
@@ -358,6 +367,7 @@
   margin-top: 24px;
   font-size: 14px;
   color: rgba(255, 255, 255, 0.6);
+  transform: translateZ(0);
 }
 
 /* ---------- Content sections (below the hero fold) ---------- */
