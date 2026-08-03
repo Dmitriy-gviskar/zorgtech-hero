@@ -1,6 +1,9 @@
 import PageHeader from '../components/PageHeader';
+import { useTitle } from '../lib/useTitle';
 
 export default function ContactsPage() {
+  useTitle('Контакты');
+
   return (
     <div className="inner-page">
       <PageHeader back="/" title="Контакты" />

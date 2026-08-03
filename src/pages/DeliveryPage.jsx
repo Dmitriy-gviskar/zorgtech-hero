@@ -1,6 +1,9 @@
 import PageHeader from '../components/PageHeader';
+import { useTitle } from '../lib/useTitle';
 
 export default function DeliveryPage() {
+  useTitle('Доставка и сервис');
+
   return (
     <div className="inner-page">
       <PageHeader back="/" title="Доставка и сервис" />

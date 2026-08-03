@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import PageHeader from '../components/PageHeader';
+import { useTitle } from '../lib/useTitle';
 
 const EASE = [0.16, 1, 0.3, 1];
 const reveal = (delay = 0) => ({
@@ -36,6 +37,8 @@ const STORY = [
 ];
 
 export default function AboutPage() {
+  useTitle('О компании');
+
   return (
     <div className="inner-page">
       <PageHeader back="/" title="О компании" />

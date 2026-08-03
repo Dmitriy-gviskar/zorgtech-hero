@@ -1,6 +1,9 @@
 import PageHeader from '../components/PageHeader';
+import { useTitle } from '../lib/useTitle';
 
 export default function SupportPage() {
+  useTitle('Поддержка');
+
   return (
     <div className="inner-page">
       <PageHeader back="/" title="Поддержка" />

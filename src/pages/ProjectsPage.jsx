@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import PageHeader from '../components/PageHeader';
+import { useTitle } from '../lib/useTitle';
 
 const EASE = [0.16, 1, 0.3, 1];
 const reveal = (delay = 0) => ({
@@ -30,6 +31,8 @@ const PROJECTS = [
 ];
 
 export default function ProjectsPage() {
+  useTitle('Проекты');
+
   return (
     <div className="inner-page">
       <PageHeader

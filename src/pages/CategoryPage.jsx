@@ -4,6 +4,7 @@ import PageHeader from '../components/PageHeader';
 import categories from '../data/categories.json';
 import { CATEGORIES_META } from '../data/categoriesMeta';
 import { asset } from '../lib/asset';
+import { useTitle } from '../lib/useTitle';
 
 const EASE = [0.16, 1, 0.3, 1];
 const MotionLink = motion.create(Link);
@@ -14,6 +15,8 @@ export default function CategoryPage() {
   const { slug } = useParams();
   const category = categories[slug];
   const meta = CATEGORIES_META.find((c) => c.slug === slug);
+
+  useTitle(meta?.title ?? category?.name ?? 'Категория не найдена');
 
   if (!category) {
     return (

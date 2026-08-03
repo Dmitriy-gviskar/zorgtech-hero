@@ -2,11 +2,14 @@ import { motion } from 'motion/react';
 import { Link } from 'react-router-dom';
 import PageHeader from '../components/PageHeader';
 import { CATEGORIES_META } from '../data/categoriesMeta';
+import { useTitle } from '../lib/useTitle';
 
 const EASE = [0.16, 1, 0.3, 1];
 const MotionLink = motion.create(Link);
 
 export default function CatalogHub() {
+  useTitle('Продукция');
+
   return (
     <div className="inner-page">
       <PageHeader

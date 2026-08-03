@@ -1,4 +1,5 @@
 import PageHeader from '../components/PageHeader';
+import { useTitle } from '../lib/useTitle';
 
 const POSTS = [
   { year: '2026', title: 'Как выбрать сенсорный киоск для музея', text: 'Интерактивные экспозиции, дополненная реальность и квесты — на что обратить внимание.' },
@@ -7,6 +8,8 @@ const POSTS = [
 ];
 
 export default function BlogPage() {
+  useTitle('Блог');
+
   return (
     <div className="inner-page">
       <PageHeader back="/" title="Блог" />
