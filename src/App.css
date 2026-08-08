@@ -426,8 +426,8 @@
 }
 
 .section-heading {
-  font-size: clamp(1.75rem, 4vw, 2.75rem);
-  font-weight: 500;
+  font-size: clamp(1.75rem, 4vw, 3rem);
+  font-weight: 700;
   letter-spacing: -0.02em;
   line-height: 1.15;
   margin-bottom: 14px;
@@ -985,8 +985,10 @@
   justify-content: center;
   height: 140px;
   margin-bottom: 10px;
-  background: rgba(255,255,255,0.02);
-  border-radius: 8px;
+}
+
+.mini-card-img img {
+  mix-blend-mode: lighten;
 }
 
 .mini-card-img img {
@@ -1091,7 +1093,7 @@
   width: 100%;
   max-height: 460px;
   object-fit: contain;
-  background: rgba(255,255,255,0.02);
+  mix-blend-mode: lighten;
   border-radius: 8px;
 }
 
@@ -2060,7 +2062,7 @@
 
 .cat6 {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(12, 1fr);
   gap: 24px;
 }
 
@@ -2068,11 +2070,23 @@
   .cat6 {
     grid-template-columns: repeat(2, 1fr);
   }
+  .cat6-card,
+  .cat6-card:first-child {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+  .cat6-card:first-child .cat6-img {
+    height: 180px;
+  }
 }
 
 @media (max-width: 480px) {
   .cat6 {
     grid-template-columns: 1fr;
+  }
+  .cat6-card,
+  .cat6-card:first-child {
+    grid-column: span 1;
   }
 }
 
@@ -2104,6 +2118,7 @@
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
+  mix-blend-mode: lighten;
 }
 
 .cat6-body {
@@ -2329,6 +2344,7 @@
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
+  mix-blend-mode: lighten;
 }
 
 .pop4-card h3 {
