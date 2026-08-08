@@ -10,11 +10,12 @@ import { useTitle } from '../lib/useTitle';
 const EASE = [0.16, 1, 0.3, 1];
 const MotionLink = motion.create(Link);
 
-const imgUrl = (path) => asset(`img/${path.split('/').pop()}`);
+const imgSrc = (slug) => {
+  const p = products[slug];
+  if (p?.images?.length > 0) return asset(p.images[0]);
+  return asset('img/projects/00.jpeg');
+};
 
-// categories.json's own "name" field disagrees with the product page's real
-// title for some models (e.g. catalog says "49 F", the product itself says
-// "50 F") — the product page is the source of truth, so prefer its title.
 const nameFor = (slug, fallback) => products[slug]?.title ?? fallback;
 
 function diagonalFor(slug) {
@@ -62,7 +63,7 @@ export default function CategoryPage() {
             transition={{ duration: 0.5, delay: 0.03 * i, ease: EASE }}
           >
             <div className="mini-card-img">
-              <img src={imgUrl(p.img)} alt={nameFor(p.slug, p.name)} loading="lazy" />
+              <img src={imgSrc(p.slug)} alt={nameFor(p.slug, p.name)} loading="lazy" />
             </div>
             <h3>{nameFor(p.slug, p.name)}</h3>
           </MotionLink>
