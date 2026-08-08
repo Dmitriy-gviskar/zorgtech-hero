@@ -921,6 +921,22 @@
   line-height: 1.5;
 }
 
+.cat-card-count {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--accent);
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.cat-card:hover .cat-card-count {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 /* ---------- Category product grid ---------- */
 
 .prod-grid {
