@@ -1353,6 +1353,116 @@
   color: var(--accent);
 }
 
+/* ---------- Project detail ---------- */
+
+.project-detail-hero {
+  margin: 32px 0 40px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.project-detail-hero img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  display: block;
+}
+
+.project-detail-body {
+  max-width: 720px;
+}
+
+.project-detail-body h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.project-detail-body > p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: rgba(0, 0, 0, 0.7);
+  margin-bottom: 40px;
+}
+
+.project-detail-features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-bottom: 48px;
+}
+
+@media (max-width: 640px) {
+  .project-detail-features {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-detail-feature {
+  background: #fafafa;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.project-detail-feature h3 {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 6px;
+}
+
+.project-detail-feature p {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.project-detail-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  padding: 40px 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  margin: 48px 0 0;
+}
+
+.project-detail-nav-link {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.15s;
+}
+
+.project-detail-nav-link span {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.project-detail-nav-link strong {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.project-detail-nav-link:hover {
+  color: var(--accent);
+}
+
+[data-theme="dark"] .project-detail-feature {
+  background: #1a1a1e;
+}
+
+[data-theme="dark"] .project-detail-nav-link span {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+[data-theme="dark"] .project-detail-body > p {
+  color: rgba(255, 255, 255, 0.7);
+}
+
 .project p {
   font-size: 13px;
   color: rgba(0, 0, 0, 0.7);

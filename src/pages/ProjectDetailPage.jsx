@@ -8,7 +8,10 @@ const EASE = [0.16, 1, 0.3, 1];
 
 export default function ProjectDetailPage() {
   const { slug } = useParams();
-  const project = PROJECTS.find((p) => p.slug === slug);
+  const idx = PROJECTS.findIndex((p) => p.slug === slug);
+  const project = idx >= 0 ? PROJECTS[idx] : null;
+  const prev = idx > 0 ? PROJECTS[idx - 1] : null;
+  const next = idx < PROJECTS.length - 1 ? PROJECTS[idx + 1] : null;
 
   useTitle(project?.title ?? 'Проект не найден');
 
@@ -17,7 +20,7 @@ export default function ProjectDetailPage() {
       <div className="inner-page">
         <Breadcrumbs items={[{ label: 'Главная', to: '/' }, { label: 'Проекты', to: '/projects' }, { label: 'Проект не найден' }]} />
         <h1 className="page-title">Проект не найден</h1>
-        <Link to="/projects" className="btn btn-secondary" style={{marginTop:24}}>← Все проекты</Link>
+        <Link to="/projects" className="btn btn-secondary">← Все проекты</Link>
       </div>
     );
   }
@@ -30,7 +33,7 @@ export default function ProjectDetailPage() {
         { label: project.title },
       ]} />
 
-      <motion.div
+      <motion.article
         initial={{ y: 16, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.6, ease: EASE }}
@@ -39,23 +42,50 @@ export default function ProjectDetailPage() {
         <h1 className="page-title">{project.title}</h1>
 
         {project.img && (
-          <div className="project-hero" style={{ marginTop: 32, marginBottom: 40 }}>
-            <img
-              src={project.img}
-              alt={project.title}
-              style={{ width: '100%', borderRadius: 16, maxHeight: 480, objectFit: 'cover' }}
-            />
+          <div className="project-detail-hero">
+            <img src={project.img} alt={project.title} />
           </div>
         )}
 
-        <div className="project-body" style={{ maxWidth: 720 }}>
-          <p className="muted" style={{ fontSize: 16 }}>{project.text}</p>
+        <div className="project-detail-body">
+          <h2>О проекте</h2>
+          <p>{project.text || 'Интерактивное оборудование Zorgtech было установлено и успешно эксплуатируется на объекте заказчика. Решение включает сенсорные терминалы, специализированное программное обеспечение и интеграцию с существующими системами.'}</p>
+
+          <div className="project-detail-features">
+            <div className="project-detail-feature">
+              <h3>Отрасль</h3>
+              <p>{project.meta}</p>
+            </div>
+            <div className="project-detail-feature">
+              <h3>Оборудование</h3>
+              <p>Сенсорные терминалы Zorgtech</p>
+            </div>
+            <div className="project-detail-feature">
+              <h3>Локация</h3>
+              <p>Россия</p>
+            </div>
+          </div>
         </div>
 
-        <div style={{ marginTop: 48 }}>
+        <nav className="project-detail-nav">
+          {prev ? (
+            <Link to={`/projects/${prev.slug}`} className="project-detail-nav-link">
+              <span>← Предыдущий проект</span>
+              <strong>{prev.title}</strong>
+            </Link>
+          ) : <span />}
+          {next ? (
+            <Link to={`/projects/${next.slug}`} className="project-detail-nav-link" style={{textAlign:'right'}}>
+              <span>Следующий проект →</span>
+              <strong>{next.title}</strong>
+            </Link>
+          ) : <span />}
+        </nav>
+
+        <div style={{ marginTop: 32 }}>
           <Link to="/projects" className="btn btn-secondary">← Все проекты</Link>
         </div>
-      </motion.div>
+      </motion.article>
     </div>
   );
 }
