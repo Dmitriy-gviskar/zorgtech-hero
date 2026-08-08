@@ -1,5 +1,7 @@
 import { motion } from 'motion/react';
+import { Link } from 'react-router-dom';
 import PageHeader from '../components/PageHeader';
+import Breadcrumbs from '../components/Breadcrumbs';
 import { useTitle } from '../lib/useTitle';
 import PROJECTS, { PROJECT_STATS } from '../data/projects';
 
@@ -16,6 +18,7 @@ export default function ProjectsPage() {
 
   return (
     <div className="inner-page">
+      <Breadcrumbs items={[{ label: 'Главная', to: '/' }, { label: 'Проекты' }]} />
       <PageHeader
         back="/"
         label="Проекты"
@@ -47,7 +50,7 @@ export default function ProjectsPage() {
             </div>
             <div>
               <p className="project-meta">{p.meta}</p>
-              <h2>{p.title}</h2>
+              <h2><Link to={`/projects/${p.slug}`}>{p.title}</Link></h2>
               {p.text && <p>{p.text}</p>}
             </div>
           </motion.div>

@@ -5,6 +5,7 @@ import CatalogHub from './pages/CatalogHub';
 import CategoryPage from './pages/CategoryPage';
 import UniquePage from './pages/UniquePage';
 import ProductPage from './pages/ProductPage';
+import ProjectDetailPage from './pages/ProjectDetailPage';
 import AboutPage from './pages/AboutPage';
 import SolutionsPage from './pages/SolutionsPage';
 import ProjectsPage from './pages/ProjectsPage';
@@ -28,6 +29,7 @@ function App() {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/solutions" element={<SolutionsPage />} />
           <Route path="/projects" element={<ProjectsPage />} />
+          <Route path="/projects/:slug" element={<ProjectDetailPage />} />
           <Route path="/contacts" element={<ContactsPage />} />
           <Route path="/blog" element={<BlogPage />} />
           <Route path="/support" element={<SupportPage />} />

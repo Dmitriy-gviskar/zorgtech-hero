@@ -1337,6 +1337,15 @@
   margin-bottom: 8px;
 }
 
+.project h2 a {
+  color: inherit;
+  transition: color 0.15s;
+}
+
+.project h2 a:hover {
+  color: var(--accent);
+}
+
 .project p {
   font-size: 13px;
   color: rgba(0, 0, 0, 0.7);
