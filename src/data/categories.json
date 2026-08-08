@@ -1,6 +1,6 @@
 {
   "ulichnye": {
-    "name": "Diamant 55 F Outdoor Dual",
+    "name": "Уличные терминалы",
     "products": [
       {
         "slug": "diamant-46-f-outdoor",
@@ -20,7 +20,7 @@
     ]
   },
   "napolnye": {
-    "name": "Mono 43 F",
+    "name": "Diamant F Multitouch",
     "products": [
       {
         "slug": "apriori",
@@ -170,7 +170,7 @@
     ]
   },
   "stoly": {
-    "name": "Mono 55 T",
+    "name": "Diamant N Multitouch",
     "products": [
       {
         "slug": "diamant-22-n",
@@ -220,7 +220,7 @@
     ]
   },
   "nastennyy": {
-    "name": "Mono 19 F",
+    "name": "Diamant W Multitouch",
     "products": [
       {
         "slug": "diamant-22-w",
@@ -265,7 +265,7 @@
     ]
   },
   "mono": {
-    "name": "Mono 43 F",
+    "name": "MONO Multitouch",
     "products": [
       {
         "slug": "mono-32-f",
@@ -285,7 +285,7 @@
     ]
   },
   "apriori": {
-    "name": "Interaktivnyy Kiosk Apriori 19 Print",
+    "name": "Apriori",
     "products": [
       {
         "slug": "apriori",
@@ -325,7 +325,7 @@
     ]
   },
   "avtokassy": {
-    "name": "Mono 32 Fa Pin",
+    "name": "Автокассы",
     "products": [
       {
         "slug": "diamant-32-wa-pay",
@@ -345,7 +345,7 @@
     ]
   },
   "dezinfektory": {
-    "name": "Beskontaktnyy Dezinfektor Agat 9",
+    "name": "Дезинфекторы рук",
     "products": [
       {
         "slug": "beskontaktnyy-dezinfektor-agat-5",
@@ -365,7 +365,7 @@
     ]
   },
   "otraslevye": {
-    "name": "Diamant Tmedical",
+    "name": "Отраслевые киоски",
     "products": [
       {
         "slug": "diamant-intercon",
@@ -380,7 +380,7 @@
     ]
   },
   "detskie": {
-    "name": "Eco Kid 32",
+    "name": "Детские столы",
     "products": [
       {
         "slug": "eco-kid-22",
@@ -395,7 +395,7 @@
     ]
   },
   "samoobsluzhivanie": {
-    "name": "Mono 32 F Pin",
+    "name": "Киоски самообслуживания",
     "products": [
       {
         "slug": "diamant-32-w-pay",
