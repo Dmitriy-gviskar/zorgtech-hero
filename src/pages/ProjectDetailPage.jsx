@@ -68,6 +68,14 @@ export default function ProjectDetailPage() {
             </>
           )}
 
+          {content?.inlineImages?.length > 0 && (
+            <div className="project-detail-gallery">
+              {content.inlineImages.map((img, i) => (
+                <img key={i} src={`/zorgtech-hero/${img}`} alt="" loading="lazy" />
+              ))}
+            </div>
+          )}
+
           {content?.products?.length > 0 && (
             <div className="project-detail-used">
               <h2>Что мы использовали в проекте</h2>

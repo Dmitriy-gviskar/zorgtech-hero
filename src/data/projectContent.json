@@ -49,6 +49,14 @@
         "price": "от 135 960 р.",
         "link": "/catalog/product/interaktivnyy-kiosk-apriori-19-print/"
       }
+    ],
+    "inlineImages": [
+      "img/projects/00_00.jpg",
+      "img/projects/00_01.jpg",
+      "img/projects/00_02.jpg",
+      "img/projects/00_03.png",
+      "img/projects/00_04.png",
+      "img/projects/00_05.png"
     ]
   },
   "novye-standarty-bankovskogo-obsluzhivaniya": {
@@ -77,7 +85,8 @@
         "price": "от  р.",
         "link": "/catalog/product/diamant-43-fl/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "masshtabnyy-proekt-po-osnashcheniyu-novykh-poliklinik-g-moskvy-beskontaktnymi-dezinfektorami-i-inter": {
     "sections": [
@@ -94,7 +103,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "kompleksnoe-osnashchenie-rabochikh-mest-interaktivnymi-kioskami-na-zavodakh-ao-silovye-mashiny": {
     "sections": [
@@ -111,7 +121,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "interaktivnaya-navigatsiya-po-ramenskomu-gorodskomu-parku": {
     "sections": [
@@ -128,7 +139,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "interaktivnye-kioski-v-telemeditsine-dlya-neftyanykh-i-gazovykh-mestorozhdeniy": {
     "sections": [
@@ -145,7 +157,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "obespechenie-beskontaktnymi-dezinfektorami-obrazovatelnykh-uchrezhdeniy": {
     "sections": [
@@ -162,7 +175,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "interaktivnyy-proekt-k-godovshchine-otkrytiya-mtsd-v-g-moskva": {
     "sections": [
@@ -179,7 +193,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "avtomatizatsiya-avtovokzala-salarevo-dlya-mosgortransa": {
     "sections": [
@@ -196,7 +211,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "sozdanie-interaktivnoy-ekspozitsii-muzeya-gosudareva-doroga-v-khramovom-komplekse-zavidovo": {
     "sections": [
@@ -213,7 +229,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "sozdanie-bezopasnogo-dostupa-k-korporativnomu-portalu-kompanii-akrikhin-na-sensornykh-kioskakh-chere": {
     "sections": [
@@ -230,7 +247,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "avtomatizatsiya-promyshlennykh-protsessov-v-mezhdunarodnoy-zolotodobyvayushchey-kompanii-nordgold": {
     "sections": [
@@ -247,7 +265,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "onlayn-portal-mezhdu-moskvoy-i-tuloy": {
     "sections": [
@@ -264,7 +283,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "gruppa-gaz": {
     "sections": [
@@ -281,7 +301,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "interaktivnyy-katalog-v-seti-magazinov-bronnitskiy-yuvelir": {
     "sections": [
@@ -298,7 +319,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "terminal-dlya-avtomatizatsii-proizvodstva-fabriki-donskoy-tabak": {
     "sections": [
@@ -315,7 +337,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "interaktivnaya-navigatsiya-v-mebelnom-torgovom-komplekse-grand": {
     "sections": [
@@ -332,7 +355,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "6-povyshenie-loyalnosti-klientov-v-ofisakh-prodazh-obektov-nedvizhimosti-kompanii-mr-group": {
     "sections": [
@@ -349,7 +373,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "ulichnye-sensornye-terminaly-s-turisticheskim-gidom-dlya-tuly": {
     "sections": [
@@ -366,7 +391,10 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": [
+      "img/projects/18_00.jpeg"
+    ]
   },
   "sensornye-terminaly-dlya-zavodov-henkel-v-rossii": {
     "sections": [
@@ -383,7 +411,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "interaktivnye-terminaly-dlya-korporativnogo-universiteta-trubnoy-metallurgicheskoy-kompanii": {
     "sections": [
@@ -400,7 +429,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "interaktivnye-kioski-dlya-programmy-loyalnosti-v-federalnoy-seti-supermarketov-essen": {
     "sections": [
@@ -428,7 +458,8 @@
         "price": "от 160 080 р.",
         "link": "/catalog/product/apriori-19-print/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "informatsionnye-kioski-dlya-tsentralnogo-ofisa-kompanii-rostelekom": {
     "sections": [],
@@ -449,7 +480,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "ulichnyy-sensornyy-terminal-dlya-dom-russkogo-zarubezhya-imeni-aleksandra-solzhenitsyna": {
     "sections": [
@@ -477,7 +509,8 @@
         "price": "от 506 800 р.",
         "link": "/catalog/product/diamant-46-f-outdoor/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "navigatsiya-dlya-aeroportov-krasnodara-i-anapy": {
     "sections": [
@@ -505,7 +538,8 @@
         "price": "от 270 300 р.",
         "link": "/catalog/product/diamant-49-f-retail/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "interaktivnaya-navigatsiya-dlya-mtk-5-planet-moskva": {
     "sections": [
@@ -522,7 +556,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "akademiya-tsifrovykh-tekhnologiy-g-sankt-peterburg": {
     "sections": [
@@ -550,7 +585,8 @@
         "price": "от 214 600 р.",
         "link": "/catalog/product/diamant-55-w/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "novaya-model-sensornogo-stola-dlya-oiyai": {
     "sections": [
@@ -567,7 +603,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "kioski-dlya-fitnes-industrii": {
     "sections": [],
@@ -599,7 +636,8 @@
         "price": "от 270 300 р.",
         "link": "/catalog/product/diamant-49-f-retail/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "terminal-dlya-prodazhi-biletov-v-kinoteatre": {
     "sections": [
@@ -627,7 +665,8 @@
         "price": "от 183 670 р.",
         "link": "/catalog/product/diamant-32-w-pay/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "kioski-dlya-mezhdunarodnogo-meditsinskogo-klastera-skolkovo": {
     "sections": [
@@ -644,7 +683,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "zhk-novye-vatutinki-novye-tekhnologii": {
     "sections": [
@@ -661,7 +701,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "muzey-sobranie-i-interaktivnye-stoly-zorgtech": {
     "sections": [
@@ -689,7 +730,8 @@
         "price": "от 197 000 р.",
         "link": "/catalog/product/diamant-32-ne/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "zorgtech-i-mercedes-dlya-tekh-kto-vybiraet-luchshee": {
     "sections": [
@@ -706,7 +748,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "sensornye-terminaly-dlya-aeroporta-sheremetevo": {
     "sections": [
@@ -734,7 +777,8 @@
         "price": "от 273 200 р.",
         "link": "/catalog/product/diamant-49-f/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "sensornye-terminaly-dlya-aeroporta-domodedovo": {
     "sections": [
@@ -762,7 +806,8 @@
         "price": "от 116 800 р.",
         "link": "/catalog/product/apriori-19-keyboard/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "krasivye-sensornye-kiosk-dlya-amway": {
     "sections": [
@@ -790,7 +835,8 @@
         "price": "от 278 800 р.",
         "link": "/catalog/product/diamant-55-f/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "razrabotka-molodezhnogo-kornera-dlya-sberbanka": {
     "sections": [
@@ -818,7 +864,8 @@
         "price": "от 228 300 р.",
         "link": "/catalog/product/diamant-32-f-print/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "nastennye-sensornye-kioski-dlya-sretenskoy-dukhovnoy-seminarii": {
     "sections": [
@@ -846,7 +893,8 @@
         "price": "от 199 300 р.",
         "link": "/catalog/product/diamant-49-w/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "sensornye-kioski-dlya-muzeya-tekhniki-vadima-zadorozhnogo": {
     "sections": [],
@@ -878,7 +926,8 @@
         "price": "от 278 800 р.",
         "link": "/catalog/product/diamant-55-f/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "interaktivnye-proekty-sovmestno-s-galereey-i-s-glazunova": {
     "sections": [
@@ -920,7 +969,8 @@
         "price": "от 200 400 р.",
         "link": "/catalog/product/diamant-49-n/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "sensornye-kioski-dlya-uchebnykh-klassov-universiteta-sinergiya": {
     "sections": [
@@ -937,7 +987,8 @@
         "content": "НЕ ЗНАЕТЕ, С ЧЕГО НАЧАТЬ?\n\nОставьте свой номер, наш специалист свяжется с вами и поможет сделать правильный выбор\n\nМы подготовили типовые варианты решений самых популярных задач разных типов бизнеса\n\nИ выберите отдельную сенсорную панель, подходящую вашим требованиям\n\n#comp_0c421120ec0dd72685ba4bea3e6be67a { \t\tdisplay: flex; \t\twidth: 100%; \t}   \t \t\t \t\t  \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\tЗадать вопрос \t\t\t\t\t \t\t\t\t\t                     \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tКак вас зовут? \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tТелефон \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\tEmail \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t                                                        Нажимая кнопку, вы даете свое согласие на обработку персональных данных\n\nОтдел продаж: \t Россия, Московская область, г. Дубна, \t ул. Университетская, д.11, стр. 29А      Офис продаж и шоурум:      119530, г. Москва, Очаковское ш., 28стр2, БЦ Дорохофф  Задать вопрос  \t 8 800 550 26 45 \t Звонок по России бесплатный  sale@zorgtech.ru\n\nПоддержка: \t 8 800 550 26 45 \t Звонок по России бесплатный\n\nsupport@zorgtech.ru\n\nГотовые решения\n\nДоставка и сервис"
       }
     ],
-    "products": []
+    "products": [],
+    "inlineImages": []
   },
   "sovmestnyy-proekt-s-kompaniey-studiya-nikitina": {
     "sections": [
@@ -965,7 +1016,8 @@
         "price": "от 495 300 р.",
         "link": "/catalog/product/diamant-75-f/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "sensornye-kioski-dlya-obucheniya-studentov-medikov": {
     "sections": [
@@ -993,7 +1045,8 @@
         "price": "от 213 200 р.",
         "link": "/catalog/product/diamant-43-f/"
       }
-    ]
+    ],
+    "inlineImages": []
   },
   "sensornye-kioski-dlya-ao-kb-deltakredit": {
     "sections": [
@@ -1021,6 +1074,7 @@
         "price": "от 114 900 р.",
         "link": "/catalog/product/mono-32-f/"
       }
-    ]
+    ],
+    "inlineImages": []
   }
 }

@@ -1445,6 +1445,19 @@
   color: var(--accent);
 }
 
+.project-detail-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 40px 0;
+}
+
+.project-detail-gallery img {
+  width: 100%;
+  max-width: 720px;
+  border-radius: 12px;
+}
+
 .project-detail-features {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
