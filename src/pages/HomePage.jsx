@@ -57,7 +57,7 @@ export default function HomePage() {
       <h2 className="section-heading">Оборудование в деле</h2>
       <p className="section-sub">1200+ реализованных проектов в аэропортах, музеях, банках и на производствах по всей стране.</p>
       <div className="projects-grid">{TEASER_PROJECTS.map((p, i) => (
-        <Link key={i} to="/projects" className="proj-card" style={{backgroundImage:`url(${asset(p.img)})`,backgroundSize:'cover',backgroundPosition:'center'}}>
+        <Link key={i} to="/projects" className="proj-card" style={{backgroundImage:`url(${p.img})`,backgroundSize:'cover',backgroundPosition:'center'}}>
           <span className="proj-label">{p.meta} — {p.title}</span>
         </Link>
       ))}</div>
