@@ -13,7 +13,10 @@ const MotionLink = motion.create(Link);
 
 const imgSrc = (slug) => {
   const p = products[slug];
-  if (p?.images?.length > 0) return asset(p.images[0]);
+  if (p?.images?.length > 0) {
+    const src = p.images[0];
+    return src.startsWith('/upload/') ? `https://zorgtech.com${src}` : asset(src);
+  }
   return asset('img/projects/00.jpeg');
 };
 
