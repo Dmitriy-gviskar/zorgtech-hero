@@ -2,31 +2,31 @@ import projectImages from './projectImages.json';
 
 const PROJECTS = [
   // Page 1
-  { meta: 'Безопасность', title: 'Охрана труда — терминалы обучения и контроля', slug: 'охрана-труда-терминалы-обучения-и-контроля' },
-  { meta: 'Банки', title: 'Новые стандарты банковского обслуживания', slug: 'новые-стандарты-банковского-обслуживания' },
-  { meta: 'Медицина', title: 'Оснащение новых поликлиник Москвы', slug: 'оснащение-новых-поликлиник-москвы' },
-  { meta: 'Промышленность', title: 'АО «Силовые машины»', slug: 'ао-силовые-машины' },
-  { meta: 'Городская среда', title: 'Навигация по Раменскому городскому парку', slug: 'навигация-по-раменскому-городскому-парку' },
-  { meta: 'Нефтегаз', title: 'Телемедицина для месторождений', slug: 'телемедицина-для-месторождений' },
-  { meta: 'Образование', title: 'Дезинфекторы для школ', slug: 'дезинфекторы-для-школ' },
-  { meta: 'Транспорт', title: 'Интерактивный проект к годовщине МЦД', slug: 'интерактивный-проект-к-годовщине-мцд' },
-  { meta: 'Транспорт', title: 'Автовокзал «Саларьево»', slug: 'автовокзал-саларьево' },
-  { meta: 'Культура', title: 'Музей «Государева Дорога»', slug: 'музей-государева-дорога' },
-  { meta: 'Промышленность', title: 'Защищённый браузер для Акрихин', slug: 'защищённый-браузер-для-акрихин' },
-  { meta: 'Промышленность', title: 'Nordgold — автоматизация процессов', slug: 'nordgold-автоматизация-процессов' },
+  { meta: 'Безопасность', title: 'Охрана труда — терминалы обучения и контроля', slug: 'охрана-труда-терминалы-обучения-и-контроля' , oldSlug: 'kak-my-razgruzili-sluzhbu-okhrany-truda-terminaly-dlya-obucheniya-i-kontrolya' }
+  { meta: 'Банки', title: 'Новые стандарты банковского обслуживания', slug: 'новые-стандарты-банковского-обслуживания' , oldSlug: 'novye-standarty-bankovskogo-obsluzhivaniya' }
+  { meta: 'Медицина', title: 'Оснащение новых поликлиник Москвы', slug: 'оснащение-новых-поликлиник-москвы' , oldSlug: 'masshtabnyy-proekt-po-osnashcheniyu-novykh-poliklinik-g-moskvy-beskontaktnymi-dezinfektorami-i-inter' }
+  { meta: 'Промышленность', title: 'АО «Силовые машины»', slug: 'ао-силовые-машины' , oldSlug: 'kompleksnoe-osnashchenie-rabochikh-mest-interaktivnymi-kioskami-na-zavodakh-ao-silovye-mashiny' }
+  { meta: 'Городская среда', title: 'Навигация по Раменскому городскому парку', slug: 'навигация-по-раменскому-городскому-парку' , oldSlug: 'interaktivnaya-navigatsiya-po-ramenskomu-gorodskomu-parku' }
+  { meta: 'Нефтегаз', title: 'Телемедицина для месторождений', slug: 'телемедицина-для-месторождений' , oldSlug: 'interaktivnye-kioski-v-telemeditsine-dlya-neftyanykh-i-gazovykh-mestorozhdeniy' }
+  { meta: 'Образование', title: 'Дезинфекторы для школ', slug: 'дезинфекторы-для-школ' , oldSlug: 'obespechenie-beskontaktnymi-dezinfektorami-obrazovatelnykh-uchrezhdeniy' }
+  { meta: 'Транспорт', title: 'Интерактивный проект к годовщине МЦД', slug: 'интерактивный-проект-к-годовщине-мцд' , oldSlug: 'interaktivnyy-proekt-k-godovshchine-otkrytiya-mtsd-v-g-moskva' }
+  { meta: 'Транспорт', title: 'Автовокзал «Саларьево»', slug: 'автовокзал-саларьево' , oldSlug: 'avtomatizatsiya-avtovokzala-salarevo-dlya-mosgortransa' }
+  { meta: 'Культура', title: 'Музей «Государева Дорога»', slug: 'музей-государева-дорога' , oldSlug: 'sozdanie-interaktivnoy-ekspozitsii-muzeya-gosudareva-doroga-v-khramovom-komplekse-zavidovo' }
+  { meta: 'Промышленность', title: 'Защищённый браузер для Акрихин', slug: 'защищённый-браузер-для-акрихин' , oldSlug: 'sozdanie-bezopasnogo-dostupa-k-korporativnomu-portalu-kompanii-akrikhin-na-sensornykh-kioskakh-chere' }
+  { meta: 'Промышленность', title: 'Nordgold — автоматизация процессов', slug: 'nordgold-автоматизация-процессов' , oldSlug: 'avtomatizatsiya-promyshlennykh-protsessov-v-mezhdunarodnoy-zolotodobyvayushchey-kompanii-nordgold' }
   // Page 2
-  { meta: 'IT / Телеком', title: 'Онлайн-портал Москва — Тула', slug: 'онлайн-портал-москва-тула' },
-  { meta: 'Промышленность', title: 'Кадровый учёт в «Группе ГАЗ»', slug: 'кадровый-учёт-в-группе-газ' },
-  { meta: 'Ритейл', title: 'Интерактивный каталог «Бронницкий ювелир»', slug: 'интерактивный-каталог-бронницкий-ювелир' },
-  { meta: 'Промышленность', title: 'Автоматизация фабрики «Донской табак»', slug: 'автоматизация-фабрики-донской-табак' },
-  { meta: 'Ритейл', title: 'Навигация в ТК «Гранд»', slug: 'навигация-в-тк-гранд' },
-  { meta: 'Недвижимость', title: 'MR Group — лояльность клиентов', slug: 'mr-group-лояльность-клиентов' },
-  { meta: 'Туризм', title: 'Туристический гид в Туле', slug: 'туристический-гид-в-туле' },
-  { meta: 'Промышленность', title: 'Терминалы для заводов Henkel', slug: 'терминалы-для-заводов-henkel' },
-  { meta: 'Образование', title: 'Корпоративный университет ТМК2U', slug: 'корпоративный-университет-тмк2u' },
-  { meta: 'Ритейл', title: 'Программа лояльности «Эссен»', slug: 'программа-лояльности-эссен' },
-  { meta: 'IT / Телеком', title: 'Инфокиоски для офиса Ростелеком', slug: 'инфокиоски-для-офиса-ростелеком' },
-  { meta: 'Образование', title: 'Гид Учащегося в Ярославле', slug: 'гид-учащегося-в-ярославле' },
+  { meta: 'IT / Телеком', title: 'Онлайн-портал Москва — Тула', slug: 'онлайн-портал-москва-тула' , oldSlug: 'onlayn-portal-mezhdu-moskvoy-i-tuloy' }
+  { meta: 'Промышленность', title: 'Кадровый учёт в «Группе ГАЗ»', slug: 'кадровый-учёт-в-группе-газ' , oldSlug: 'gruppa-gaz' }
+  { meta: 'Ритейл', title: 'Интерактивный каталог «Бронницкий ювелир»', slug: 'интерактивный-каталог-бронницкий-ювелир' , oldSlug: 'interaktivnyy-katalog-v-seti-magazinov-bronnitskiy-yuvelir' }
+  { meta: 'Промышленность', title: 'Автоматизация фабрики «Донской табак»', slug: 'автоматизация-фабрики-донской-табак' , oldSlug: 'avtomatizatsiya-fabriki-donskoy-tabak' }
+  { meta: 'Ритейл', title: 'Навигация в ТК «Гранд»', slug: 'навигация-в-тк-гранд' , oldSlug: 'interaktivnaya-navigatsiya-v-mebelnom-torgovom-komplekse-grand' }
+  { meta: 'Недвижимость', title: 'MR Group — лояльность клиентов', slug: 'mr-group-лояльность-клиентов' , oldSlug: '6-povyshenie-loyalnosti-klientov-v-ofisakh-prodazh-obektov-nedvizhimosti-kompanii-mr-group' }
+  { meta: 'Туризм', title: 'Туристический гид в Туле', slug: 'туристический-гид-в-туле' , oldSlug: 'ulichnye-sensornye-terminaly-s-turisticheskim-gidom-dlya-tuly' }
+  { meta: 'Промышленность', title: 'Терминалы для заводов Henkel', slug: 'терминалы-для-заводов-henkel' , oldSlug: 'sensornye-terminaly-dlya-zavodov-henkel-v-rossii' }
+  { meta: 'Образование', title: 'Корпоративный университет ТМК2U', slug: 'корпоративный-университет-тмк2u' , oldSlug: 'interaktivnye-terminaly-dlya-korporativnogo-universiteta-trubnoy-metallurgicheskoy-kompanii' }
+  { meta: 'Ритейл', title: 'Программа лояльности «Эссен»', slug: 'программа-лояльности-эссен' , oldSlug: 'interaktivnye-kioski-dlya-programmy-loyalnosti-v-federalnoy-seti-supermarketov-essen' }
+  { meta: 'IT / Телеком', title: 'Инфокиоски для офиса Ростелеком', slug: 'инфокиоски-для-офиса-ростелеком' , oldSlug: 'informatsionnye-kioski-dlya-tsentralnogo-ofisa-kompanii-rostelekom' }
+  { meta: 'Образование', title: 'Гид Учащегося в Ярославле', slug: 'гид-учащегося-в-ярославле' , oldSlug: 'gid-uchashchegosya-dlya-uchilishcha-olimpiyskogo-rezerva' }
   // Page 3
   { meta: 'Культура', title: 'Музейный Гид для Дома русского зарубежья', slug: 'музейный-гид-для-дома-русского-зарубежья' },
   { meta: 'Транспорт', title: 'Навигация для аэропортов Краснодара и Анапы', slug: 'навигация-для-аэропортов-краснодара-и-анапы' },

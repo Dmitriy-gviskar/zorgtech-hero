@@ -1382,7 +1382,67 @@
   font-size: 16px;
   line-height: 1.7;
   color: rgba(0, 0, 0, 0.7);
+  margin-bottom: 24px;
+}
+
+.project-detail-section {
   margin-bottom: 40px;
+}
+
+.project-detail-section h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.project-detail-section p {
+  font-size: 15px;
+  line-height: 1.7;
+  color: rgba(0, 0, 0, 0.7);
+  margin-bottom: 16px;
+}
+
+.project-detail-used {
+  margin-top: 48px;
+  padding-top: 40px;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.project-detail-used h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.project-detail-used-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.project-detail-used-card {
+  background: #fafafa;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.project-detail-used-card h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.project-detail-used-card p {
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.project-detail-used-price {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--accent);
 }
 
 .project-detail-features {

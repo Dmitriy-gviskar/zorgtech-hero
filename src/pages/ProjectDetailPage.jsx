@@ -2,6 +2,7 @@ import { motion } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
 import Breadcrumbs from '../components/Breadcrumbs';
 import PROJECTS from '../data/projects';
+import projectContent from '../data/projectContent.json';
 import { useTitle } from '../lib/useTitle';
 
 const EASE = [0.16, 1, 0.3, 1];
@@ -12,6 +13,9 @@ export default function ProjectDetailPage() {
   const project = idx >= 0 ? PROJECTS[idx] : null;
   const prev = idx > 0 ? PROJECTS[idx - 1] : null;
   const next = idx < PROJECTS.length - 1 ? PROJECTS[idx + 1] : null;
+
+  // Get rich content from scraped data
+  const content = project?.oldSlug ? projectContent[project.oldSlug] : null;
 
   useTitle(project?.title ?? 'Проект не найден');
 
@@ -48,23 +52,36 @@ export default function ProjectDetailPage() {
         )}
 
         <div className="project-detail-body">
-          <h2>О проекте</h2>
-          <p>{project.text || 'Интерактивное оборудование Zorgtech было установлено и успешно эксплуатируется на объекте заказчика. Решение включает сенсорные терминалы, специализированное программное обеспечение и интеграцию с существующими системами.'}</p>
+          {content?.sections ? (
+            content.sections.map((s, i) => (
+              <div key={i} className="project-detail-section">
+                <h2>{s.title}</h2>
+                {s.content.split('\n\n').map((p, j) => (
+                  <p key={j}>{p}</p>
+                ))}
+              </div>
+            ))
+          ) : (
+            <>
+              <h2>О проекте</h2>
+              <p>{project.text || 'Интерактивное оборудование Zorgtech было установлено и успешно эксплуатируется на объекте заказчика.'}</p>
+            </>
+          )}
 
-          <div className="project-detail-features">
-            <div className="project-detail-feature">
-              <h3>Отрасль</h3>
-              <p>{project.meta}</p>
+          {content?.products?.length > 0 && (
+            <div className="project-detail-used">
+              <h2>Что мы использовали в проекте</h2>
+              <div className="project-detail-used-grid">
+                {content.products.map((p, i) => (
+                  <div key={i} className="project-detail-used-card">
+                    <h3>{p.name}</h3>
+                    <p>{p.desc}</p>
+                    <span className="project-detail-used-price">{p.price}</span>
+                  </div>
+                ))}
+              </div>
             </div>
-            <div className="project-detail-feature">
-              <h3>Оборудование</h3>
-              <p>Сенсорные терминалы Zorgtech</p>
-            </div>
-            <div className="project-detail-feature">
-              <h3>Локация</h3>
-              <p>Россия</p>
-            </div>
-          </div>
+          )}
         </div>
 
         <nav className="project-detail-nav">
