@@ -13,6 +13,9 @@ import ContactsPage from './pages/ContactsPage';
 import BlogPage from './pages/BlogPage';
 import SupportPage from './pages/SupportPage';
 import DeliveryPage from './pages/DeliveryPage';
+import AreasPage from './pages/AreasPage';
+import PolicyPage from './pages/PolicyPage';
+import RentalPage from './pages/RentalPage';
 import NotFoundPage from './pages/NotFoundPage';
 import './App.css';
 
@@ -34,6 +37,9 @@ function App() {
           <Route path="/blog" element={<BlogPage />} />
           <Route path="/support" element={<SupportPage />} />
           <Route path="/delivery" element={<DeliveryPage />} />
+          <Route path="/rent" element={<RentalPage />} />
+          <Route path="/areas" element={<AreasPage />} />
+          <Route path="/policy" element={<PolicyPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Route>
       </Routes>
