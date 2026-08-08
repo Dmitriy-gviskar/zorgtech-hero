@@ -2146,6 +2146,53 @@
   line-height: 1.5;
 }
 
+/* ---------- Areas grid ---------- */
+
+.areas-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .areas-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 400px) {
+  .areas-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.areas-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  transition: transform 0.2s;
+}
+
+.areas-card:hover {
+  transform: translateY(-2px);
+}
+
+.areas-card h3 {
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.areas-card p {
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 1.4;
+}
+
+[data-theme="dark"] .areas-card {
+  background: #1a1a1e;
+}
+
 /* ---------- Solutions grid (homepage) ---------- */
 
 .sol9 {

@@ -66,12 +66,30 @@ export default function HomePage() {
       <div className="cta-row" style={{marginTop:24}}><Link to="/projects" className="btn btn-secondary">Все проекты</Link></div>
     </div></section>
 
-    {/* 7. Статистика */}
+    {/* 7. Области применения */}
     <section className="hp-sec hp-sec-gray"><div className="hp-inner">
+      <p className="section-label">Области применения</p>
+      <h2 className="section-heading">Где работает наше оборудование</h2>
+      <div className="areas-grid">
+        {[
+          {t:'Медицина',d:'Поликлиники, больницы, медицинские кластеры'},
+          {t:'Банки',d:'Отделения, корнеры, зоны самообслуживания'},
+          {t:'Ритейл',d:'Торговые центры, супермаркеты, бутики'},
+          {t:'Транспорт',d:'Аэропорты, вокзалы, метро'},
+          {t:'Образование',d:'Школы, вузы, корпоративные университеты'},
+          {t:'Культура',d:'Музеи, галереи, выставочные пространства'},
+          {t:'Госсектор',d:'МФЦ, администрации, госуслуги'},
+          {t:'Промышленность',d:'Заводы, фабрики, охрана труда'},
+        ].map(a=><div key={a.t} className="areas-card"><h3>{a.t}</h3><p>{a.d}</p></div>)}
+      </div>
+    </div></section>
+
+    {/* 8. Статистика */}
+    <section className="hp-sec"><div className="hp-inner">
       <div className="hp-stats">{HOMEPAGE_STATS.map(s=><div key={s.l}><div className="stat-n">{s.n}</div><div className="stat-l">{s.l}</div></div>)}</div>
     </div></section>
 
-    {/* 8. О компании */}
+    {/* 9. О компании */}
     <section className="hp-sec"><div className="hp-inner">
       <h2 className="section-heading">Уникальный российский производитель</h2>
       <p className="section-sub">Более 10 лет мы занимаем лидирующие позиции в области производства интерактивных систем самообслуживания. Собственное производство в Дубне, шоурум в Москве.</p>
@@ -79,7 +97,7 @@ export default function HomePage() {
       <Link to="/about" className="btn btn-primary">О компании</Link>
     </div></section>
 
-    {/* 9. Блог */}
+    {/* 10. Блог */}
     <section className="hp-sec hp-sec-gray"><div className="hp-inner">
       <p className="section-label">Блог</p>
       <h2 className="section-heading">Полезные материалы</h2>
@@ -87,7 +105,7 @@ export default function HomePage() {
       <Link to="/blog" className="btn btn-primary">Все статьи</Link>
     </div></section>
 
-    {/* 10. Финальный CTA */}
+    {/* 11. Финальный CTA */}
     <div className="fth"><div className="fth-inner">
       <div className="fth-left">
         <p className="fth-eye"><span className="fth-dot" />Российский производитель • 13 лет • 1200+ проектов</p>
