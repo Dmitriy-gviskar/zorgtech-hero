@@ -2,11 +2,13 @@ import { Link } from 'react-router-dom';
 import { asset } from '../lib/asset';
 import { HERO_VIDEO, CATEGORIES, POPULAR, SOLUTIONS_TEASER, BLOG_TEASER, HOMEPAGE_STATS } from '../data/homepage';
 import PROJECTS from '../data/projects';
+import { useMeta } from '../lib/useTitle';
 
 const IMG = (p) => asset(p);
 const TEASER_PROJECTS = PROJECTS.slice(0, 4);
 
 export default function HomePage() {
+  useMeta(null, 'Zorgtech — российский производитель интерактивного оборудования. Сенсорные киоски, столы и терминалы для бизнеса, государства и образования. Проектируем, производим, программируем, обслуживаем.');
   return (<>
     {/* 1. Hero */}
     <section className="hero">
