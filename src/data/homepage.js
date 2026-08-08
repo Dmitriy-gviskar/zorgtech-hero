@@ -1,12 +1,12 @@
 export const HERO_VIDEO = 'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260508_215831_c6a8989c-d716-4d8d-8745-e972a2eec711.mp4';
 
 export const CATEGORIES = [
-  { s: 'napolnye',   t: 'Diamant F Multitouch', d: 'Напольные сенсорные терминалы',       i: 'img/bc5453db1b870176f1619d4ed77a08b7.png' },
-  { s: 'stoly',      t: 'Diamant N Multitouch', d: 'Сенсорные столы',                       i: 'img/1u9jbdym7onkf1xblb2mjtdxwu9aazdl.png' },
-  { s: 'nastennyy',  t: 'Diamant W Multitouch', d: 'Настенные сенсорные терминалы',         i: 'img/193021d5f9fefb585eb55bb25b0a67f3.jpg' },
-  { s: 'mono',       t: 'MONO Multitouch',      d: 'Сенсорные терминалы Mono',              i: 'img/136ade3a8b0b6f8d740e63b7574941a1.png' },
-  { s: 'apriori',    t: 'Apriori',              d: 'Сенсорные киоски Apriori',              i: 'img/3f4eb80d6f4508e138578530a56d0ee9.jpg' },
-  { s: 'ulichnye',   t: 'Diamant F Outdoor',    d: 'Уличные сенсорные киоски',              i: 'img/05ce2e87d803bc87cb656706353fdb69.png' },
+  { s: 'napolnye',                  t: 'Напольные терминалы',        d: 'Diamant F Multitouch. 22″–86″.',          i: 'img/bc5453db1b870176f1619d4ed77a08b7.png' },
+  { s: 'stoly',                     t: 'Сенсорные столы',            d: 'Diamant N Multitouch. Для музеев и школ.', i: 'img/1u9jbdym7onkf1xblb2mjtdxwu9aazdl.png' },
+  { s: 'nastennyy',                 t: 'Настенные киоски',           d: 'Diamant W Multitouch. Компактные.',        i: 'img/193021d5f9fefb585eb55bb25b0a67f3.jpg' },
+  { s: 'mono-napolnye',             t: 'Киоски Mono',                d: 'MONO Multitouch. Доступная альтернатива.', i: 'img/136ade3a8b0b6f8d740e63b7574941a1.png' },
+  { s: 'apriori',                   t: 'Киоски Apriori',             d: 'Apriori. Со встроенным принтером.',        i: 'img/3f4eb80d6f4508e138578530a56d0ee9.jpg' },
+  { s: 'ulichnye',                  t: 'Уличные терминалы',          d: 'Всепогодные. Антивандальные.',             i: 'img/05ce2e87d803bc87cb656706353fdb69.png' },
 ];
 
 export const POPULAR = [

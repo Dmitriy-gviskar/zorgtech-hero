@@ -18,7 +18,7 @@ export default function HomePage() {
         <h1 className="hero-title">Интерактивное оборудование<br />полного цикла • Zorgtech</h1>
         <p className="hero-sub">Сенсорные киоски, столы и терминалы для бизнеса, государства и образования. Проектируем, производим, программируем, обслуживаем.</p>
         <div className="hero-btns"><Link to="/catalog" className="btn btn-primary">Смотреть продукцию</Link><Link to="/about" className="btn btn-outline">О компании</Link></div>
-        <div className="hero-tags"><Link to="/catalog/napolnye" className="hero-tag">Напольные</Link><Link to="/catalog/stoly" className="hero-tag">Столы</Link><Link to="/catalog/nastennyy" className="hero-tag">Настенные</Link><Link to="/catalog/ulichnye" className="hero-tag">Уличные</Link><Link to="/catalog/detskie" className="hero-tag">Детские</Link></div>
+        <div className="hero-tags"><Link to="/catalog/napolnye" className="hero-tag">Напольные</Link><Link to="/catalog/stoly" className="hero-tag">Столы</Link><Link to="/catalog/nastennyy" className="hero-tag">Настенные</Link><Link to="/catalog/ulichnye" className="hero-tag">Уличные</Link><Link to="/catalog/detskie-stoliki" className="hero-tag">Детские</Link></div>
       </div>
     </section>
 

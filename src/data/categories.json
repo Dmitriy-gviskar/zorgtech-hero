@@ -1,6 +1,6 @@
 {
   "ulichnye": {
-    "name": "Уличные терминалы",
+    "name": "Уличные сенсорные терминалы",
     "products": [
       {
         "slug": "diamant-46-f-outdoor",
@@ -20,7 +20,7 @@
     ]
   },
   "napolnye": {
-    "name": "Diamant F Multitouch",
+    "name": "Напольные сенсорные терминалы",
     "products": [
       {
         "slug": "apriori",
@@ -170,7 +170,7 @@
     ]
   },
   "stoly": {
-    "name": "Diamant N Multitouch",
+    "name": "Сенсорные столы",
     "products": [
       {
         "slug": "diamant-22-n",
@@ -220,7 +220,7 @@
     ]
   },
   "nastennyy": {
-    "name": "Diamant W Multitouch",
+    "name": "Настенные сенсорные киоски",
     "products": [
       {
         "slug": "diamant-22-w",
@@ -264,28 +264,8 @@
       }
     ]
   },
-  "mono": {
-    "name": "MONO Multitouch",
-    "products": [
-      {
-        "slug": "mono-32-f",
-        "name": "Mono 32 F",
-        "img": "/upload/iblock/b9d/b9df83dae61376dc45015ed196be7853.png"
-      },
-      {
-        "slug": "mono-32-f-scan",
-        "name": "Mono 32 F Scan",
-        "img": "/upload/iblock/e92/e924c6271f23f5512fceeee026880d83.png"
-      },
-      {
-        "slug": "mono-43-f",
-        "name": "Mono 43 F",
-        "img": "/upload/iblock/136/136ade3a8b0b6f8d740e63b7574941a1.png"
-      }
-    ]
-  },
   "apriori": {
-    "name": "Apriori",
+    "name": "Напольные сенсорные киоски Apriori",
     "products": [
       {
         "slug": "apriori",
@@ -344,7 +324,42 @@
       }
     ]
   },
-  "dezinfektory": {
+  "otraslevye": {
+    "name": "Отраслевые сенсорные киоски",
+    "products": [
+      {
+        "slug": "diamant-intercon",
+        "name": "Diamant Intercon",
+        "img": "/upload/iblock/793/7930fe2d6188e0529d220c2fadb64342.png"
+      },
+      {
+        "slug": "diamant-tmedical",
+        "name": "Diamant Tmedical",
+        "img": "/upload/iblock/eca/ecab61e02216c5b1ec3af825c874bb44.png"
+      }
+    ]
+  },
+  "mono-napolnye": {
+    "name": "Сенсорные напольные киоски Mono",
+    "products": [
+      {
+        "slug": "mono-32-f",
+        "name": "Mono 32 F",
+        "img": "/upload/iblock/b9d/b9df83dae61376dc45015ed196be7853.png"
+      },
+      {
+        "slug": "mono-32-f-scan",
+        "name": "Mono 32 F Scan",
+        "img": "/upload/iblock/e92/e924c6271f23f5512fceeee026880d83.png"
+      },
+      {
+        "slug": "mono-43-f",
+        "name": "Mono 43 F",
+        "img": "/upload/iblock/136/136ade3a8b0b6f8d740e63b7574941a1.png"
+      }
+    ]
+  },
+  "dezinfektora-ruk": {
     "name": "Дезинфекторы рук",
     "products": [
       {
@@ -364,23 +379,8 @@
       }
     ]
   },
-  "otraslevye": {
-    "name": "Отраслевые киоски",
-    "products": [
-      {
-        "slug": "diamant-intercon",
-        "name": "Diamant Intercon",
-        "img": "/upload/iblock/793/7930fe2d6188e0529d220c2fadb64342.png"
-      },
-      {
-        "slug": "diamant-tmedical",
-        "name": "Diamant Tmedical",
-        "img": "/upload/iblock/eca/ecab61e02216c5b1ec3af825c874bb44.png"
-      }
-    ]
-  },
-  "detskie": {
-    "name": "Детские столы",
+  "detskie-stoliki": {
+    "name": "Детские сенсорные интерактивные столы",
     "products": [
       {
         "slug": "eco-kid-22",
@@ -394,7 +394,7 @@
       }
     ]
   },
-  "samoobsluzhivanie": {
+  "kioski-samoobsluzhivaniya": {
     "name": "Киоски самообслуживания",
     "products": [
       {

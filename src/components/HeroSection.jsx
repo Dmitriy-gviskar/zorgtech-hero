@@ -45,7 +45,7 @@ export default function HeroSection() {
           <Link to="/catalog/stoly" className="tag">Столы</Link>
           <Link to="/catalog/nastennyy" className="tag">Настенные</Link>
           <Link to="/catalog/ulichnye" className="tag">Уличные</Link>
-          <Link to="/catalog/detskie" className="tag">Детские</Link>
+          <Link to="/catalog/detskie-stoliki" className="tag">Детские</Link>
         </div>
       </motion.div>
     </section>
