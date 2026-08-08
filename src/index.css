@@ -7,7 +7,7 @@
 :root {
   --accent: #38bdf8;
   --accent-glow: rgba(56, 189, 248, 0.15);
-  --bg-primary: #04162e;
+  --bg-primary: #0f172a;
   --bg-card: rgba(255, 255, 255, 0.03);
   --bg-card-hover: rgba(255, 255, 255, 0.06);
   --border-subtle: rgba(255, 255, 255, 0.05);
@@ -55,4 +55,14 @@ body {
 .glass:hover {
   background: var(--bg-card-hover);
   border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* ---------- Typography ---------- */
+
+h1, h2, h3, .hero-title, .section-heading, .page-title, .fth-head, .footer-heading {
+  font-family: 'Hanken Grotesk', 'Inter', sans-serif;
+}
+
+.section-label, .project-meta, .solution-label, .tags-pill, .menu-btn-label, .fth-tag, .hero-tag {
+  font-family: 'JetBrains Mono', 'Inter', monospace;
 }
