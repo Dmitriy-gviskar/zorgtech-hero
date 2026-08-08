@@ -94,7 +94,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-55-f-outdoor": {
     "title": "Diamant 55 F Outdoor",
@@ -191,7 +192,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-55-f-outdoor-dual": {
     "title": "Diamant 55 F Outdoor Dual",
@@ -276,7 +278,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "apriori": {
     "title": "Apriori 19",
@@ -369,7 +372,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "apriori-19-keyboard": {
     "title": "Apriori 19 Keyboard",
@@ -462,7 +466,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "apriori-19-print": {
     "title": "Apriori 19 Print-Scan",
@@ -555,7 +560,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "apriori-19-print-a4": {
     "title": "Apriori 19 Print A4",
@@ -648,7 +654,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "apriori-22": {
     "title": "Apriori 22",
@@ -741,7 +748,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "apriori-22-key": {
     "title": "Apriori 22 Key",
@@ -834,7 +842,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-22-f": {
     "title": "Diamant 22 F",
@@ -927,7 +936,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-f": {
     "title": "Diamant 32 F",
@@ -1020,7 +1030,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-f-general": {
     "title": "Diamant 32 F General",
@@ -1113,7 +1124,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-f-key": {
     "title": "Diamant 32 F Key",
@@ -1206,7 +1218,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-f-print": {
     "title": "Diamant 32 F Print",
@@ -1299,7 +1312,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-fe": {
     "title": "Diamant 32 FE",
@@ -1396,7 +1410,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-fe-pro": {
     "title": "Diamant 32 FE Pro",
@@ -1489,7 +1504,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-43-f": {
     "title": "Diamant 43 F",
@@ -1582,7 +1598,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-43-f-general": {
     "title": "Diamant 43 F General",
@@ -1675,7 +1692,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-43-f-print": {
     "title": "Diamant 43 F Print",
@@ -1768,7 +1786,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-43-fl": {
     "title": "Diamant 43 FE",
@@ -1853,7 +1872,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-49-f": {
     "title": "Diamant 50 F",
@@ -1939,7 +1959,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-49-f-general": {
     "title": "Diamant 50 F General",
@@ -2025,7 +2046,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-49-f-print": {
     "title": "Diamant 50 F Print",
@@ -2119,7 +2141,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-49-f-retail": {
     "title": "Diamant 50 F Retail",
@@ -2217,7 +2240,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-55-f": {
     "title": "Diamant 55 F",
@@ -2311,7 +2335,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-65-f": {
     "title": "Diamant 65 F",
@@ -2413,7 +2438,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-75-f": {
     "title": "Diamant 75 F",
@@ -2511,7 +2537,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-86-f-grand": {
     "title": "Diamant 86 F Grand",
@@ -2609,7 +2636,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "interaktivnyy-kiosk-apriori-19-print": {
     "title": "Apriori 19&quot; Print",
@@ -2703,7 +2731,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-32-f": {
     "title": "Mono 32 F",
@@ -2789,7 +2818,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-32-f-scan": {
     "title": "Mono 32 F Scan",
@@ -2883,7 +2913,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-43-f": {
     "title": "Mono 43 F",
@@ -2977,7 +3008,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-22-n": {
     "title": "Diamant 22 N",
@@ -3071,7 +3103,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-n": {
     "title": "Diamant 32 N",
@@ -3165,7 +3198,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-ne": {
     "title": "Diamant 32 NE",
@@ -3259,7 +3293,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-43-n": {
     "title": "Diamant 43 N",
@@ -3353,7 +3388,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-49-n": {
     "title": "Diamant 50 N",
@@ -3447,7 +3483,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-55-n": {
     "title": "Diamant 55 N",
@@ -3541,7 +3578,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-55-ne": {
     "title": "Diamant 55 NE",
@@ -3635,7 +3673,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-32-n": {
     "title": "Mono 32 N",
@@ -3729,7 +3768,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-55-t": {
     "title": "Mono 55 T",
@@ -3823,7 +3863,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-22-w": {
     "title": "Diamant 22 W",
@@ -3909,7 +3950,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-w": {
     "title": "Diamant 32 W",
@@ -3995,7 +4037,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-w-print": {
     "title": "Diamant 32 W Print",
@@ -4081,7 +4124,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-we": {
     "title": "Diamant 32 WE",
@@ -4167,7 +4211,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-43-w": {
     "title": "Diamant 43 W",
@@ -4253,7 +4298,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-49-w": {
     "title": "Diamant 50 W",
@@ -4339,7 +4385,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-55-w": {
     "title": "Diamant 55 W",
@@ -4425,7 +4472,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-19-f": {
     "title": "Mono 19 F",
@@ -4519,7 +4567,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-wa-pay": {
     "title": "Diamant 32 WA Pay",
@@ -4605,7 +4654,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-wea-pay": {
     "title": "Diamant 32 WEA Pay",
@@ -4691,7 +4741,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-32-fa-pin": {
     "title": "Mono 32 FA PIN",
@@ -4777,7 +4828,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "beskontaktnyy-dezinfektor-agat-5": {
     "title": "Бесконтактный дезинфектор Агат 5",
@@ -4819,7 +4871,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "beskontaktnyy-dezinfektor-agat-7": {
     "title": "Бесконтактный дезинфектор Агат 7",
@@ -4873,7 +4926,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "beskontaktnyy-dezinfektor-agat-9": {
     "title": "Бесконтактный дезинфектор Агат 9",
@@ -4915,7 +4969,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-intercon": {
     "title": "Diamant InterCon",
@@ -5001,7 +5056,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-tmedical": {
     "title": "Diamant TMedical",
@@ -5099,7 +5155,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "eco-kid-22": {
     "title": "Eco Kid 22",
@@ -5185,7 +5242,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "eco-kid-32": {
     "title": "Eco Kid 32",
@@ -5271,7 +5329,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-w-pay": {
     "title": "Diamant 32 W Pay",
@@ -5357,7 +5416,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "diamant-32-we-pay": {
     "title": "Diamant 32 WE Pay",
@@ -5443,7 +5503,8 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   },
   "mono-32-f-pin": {
     "title": "Mono 32 F PIN",
@@ -5529,6 +5590,7 @@
         "title": "Образование",
         "desc": "Расписание, навигация, библиотека"
       }
-    ]
+    ],
+    "description": "const h=document.documentElement,b=document.getElementById(\"t\");b.addEventListener(\"click\",()=>{const n=h.dataset.theme===\"dark\"?\"light\":\"dark\";h.dataset.theme=n;try{localStorage.setItem(\"zorgtech-theme\",n)}catch(e){}});try{const s=localStorage.getItem(\"zorgtech-theme\");if(s)h.dataset.theme=s}catch(e){}\n\nconst mb=document.getElementById(\"menuBtn\"),mn=document.getElementById(\"mobileNav\");mb.addEventListener(\"click\",()=>mn.classList.toggle(\"open\"));mn.querySelectorAll(\"a\").forEach(a=>a.addEventListener(\"click\",()=>mn.classList.remove(\"open\")))\n\nconst bt=document.getElementById(\"backToTop\");window.addEventListener(\"scroll\",()=>{bt.classList.toggle(\"visible\",window.scrollY>400)});bt.addEventListener(\"click\",()=>window.scrollTo({top:0,behavior:\"smooth\"}))"
   }
 }

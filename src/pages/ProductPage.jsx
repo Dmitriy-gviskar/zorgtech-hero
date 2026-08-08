@@ -57,6 +57,10 @@ export default function ProductPage() {
           </div>
           {product.lead && <p className="page-lead">{product.lead}</p>}
 
+          {product.description && product.description.split('\n\n').map((p, i) => (
+            <p key={i} className="page-lead" style={{marginBottom:12,fontSize:14}}>{p}</p>
+          ))}
+
           {product.features?.length > 0 && (
             <div className="feature-grid">
               {product.features.map((f) => (
