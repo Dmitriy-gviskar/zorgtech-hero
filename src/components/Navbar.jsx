@@ -3,6 +3,7 @@ import { motion } from 'motion/react';
 import { Link, useLocation } from 'react-router-dom';
 import { Plus } from 'lucide-react';
 import { LogoMark, GridIcon } from './icons';
+import ThemeToggle from './ThemeToggle';
 
 const EASE = [0.16, 1, 0.3, 1];
 
@@ -57,6 +58,7 @@ export default function Navbar({ onMenuClick }) {
           <Link to="/blog">Блог</Link>
           <Link to="/support">Поддержка</Link>
           <Link to="/contacts">Контакты</Link>
+          <ThemeToggle />
         </div>
       </div>
     </motion.nav>
