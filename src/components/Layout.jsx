@@ -3,6 +3,7 @@ import { Outlet, useLocation } from 'react-router-dom';
 import Navbar from './Navbar';
 import MenuOverlay from './MenuOverlay';
 import SiteFooter from './SiteFooter';
+import BackToTop from './BackToTop';
 
 export default function Layout() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -19,6 +20,7 @@ export default function Layout() {
       <MenuOverlay open={menuOpen} onClose={() => setMenuOpen(false)} />
       <Outlet />
       <SiteFooter />
+      <BackToTop />
     </>
   );
 }
