@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import PageHeader from '../components/PageHeader';
 import { useTitle } from '../lib/useTitle';
-import PROJECTS from '../data/projects';
+import PROJECTS, { PROJECT_STATS } from '../data/projects';
 
 const EASE = [0.16, 1, 0.3, 1];
 const reveal = (delay = 0) => ({
@@ -10,13 +10,6 @@ const reveal = (delay = 0) => ({
   viewport: { once: true, margin: '-60px' },
   transition: { duration: 0.6, delay, ease: EASE },
 });
-
-const STATS = [
-  { num: '1200+', label: 'проектов' },
-  { num: '70+', label: 'сервисных центров' },
-  { num: '3', label: 'страны' },
-  { num: '13', label: 'лет опыта' },
-];
 
 export default function ProjectsPage() {
   useTitle('Проекты');
@@ -31,7 +24,7 @@ export default function ProjectsPage() {
       />
 
       <div className="stat-line">
-        {STATS.map((s) => (
+        {PROJECT_STATS.map((s) => (
           <div className="stat" key={s.label}>
             {s.num}
             <span>{s.label}</span>

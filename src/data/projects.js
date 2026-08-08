@@ -63,3 +63,10 @@ const projects = PROJECTS.map((p, i) => ({
 }));
 
 export default projects;
+
+export const PROJECT_STATS = [
+  { num: '1200+', label: 'проектов' },
+  { num: '70+',   label: 'сервисных центров' },
+  { num: '3',     label: 'страны' },
+  { num: '13',    label: 'лет опыта' },
+];
