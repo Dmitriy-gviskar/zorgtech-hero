@@ -1,21 +1,29 @@
 import { useEffect, useState } from 'react';
 
 export default function ThemeToggle() {
-  const [dark, setDark] = useState(false);
+  const [dark, setDark] = useState(true);
 
   useEffect(() => {
     const saved = localStorage.getItem('zorgtech-theme');
-    if (saved === 'dark') {
-      setDark(true);
-      document.documentElement.dataset.theme = 'dark';
+    const isLight = saved === 'light';
+    setDark(!isLight);
+    if (isLight) {
+      document.documentElement.dataset.theme = 'light';
+    } else {
+      delete document.documentElement.dataset.theme;
     }
   }, []);
 
   const toggle = () => {
     const next = !dark;
     setDark(next);
-    document.documentElement.dataset.theme = next ? 'dark' : 'light';
-    localStorage.setItem('zorgtech-theme', next ? 'dark' : 'light');
+    if (next) {
+      delete document.documentElement.dataset.theme;
+      localStorage.setItem('zorgtech-theme', 'dark');
+    } else {
+      document.documentElement.dataset.theme = 'light';
+      localStorage.setItem('zorgtech-theme', 'light');
+    }
   };
 
   return (
