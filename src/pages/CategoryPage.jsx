@@ -21,12 +21,19 @@ const nameFor = (slug, fallback) => products[slug]?.title ?? fallback;
 
 function diagonalFor(slug) {
   const p = products[slug];
-  if (!p) return null;
+  if (!p) return '—';
   const feat = (p.features || []).find((f) => f.title === 'Диагональ');
   const fromFeature = feat?.desc.match(/(\d+)\s*″/)?.[1];
   const fromTitle = p.title.match(/\b(1[5-9]|[2-8][0-9])\b/)?.[1];
   const size = fromFeature || fromTitle;
   return size ? `${size}″` : '—';
+}
+
+function featFor(slug, title) {
+  const p = products[slug];
+  if (!p) return '—';
+  const feat = (p.features || []).find((f) => f.title === title);
+  return feat?.desc || '—';
 }
 
 export default function CategoryPage() {
@@ -83,7 +90,8 @@ export default function CategoryPage() {
             <tr>
               <th>Модель</th>
               <th className="num">Диагональ</th>
-              <th className="num">Цена</th>
+              <th className="num">Монитор</th>
+              <th className="num">Процессор</th>
             </tr>
           </thead>
           <tbody>
@@ -93,7 +101,8 @@ export default function CategoryPage() {
                   <Link to={`/product/${p.slug}`}>{nameFor(p.slug, p.name)}</Link>
                 </td>
                 <td className="num">{diagonalFor(p.slug)}</td>
-                <td className="num">по запросу</td>
+                <td className="num">{featFor(p.slug, 'Монитор')}</td>
+                <td className="num">{featFor(p.slug, 'Процессор')}</td>
               </tr>
             ))}
           </tbody>
