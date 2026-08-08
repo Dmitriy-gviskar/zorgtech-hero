@@ -41,9 +41,10 @@ export default function ProductPage() {
         transition={{ duration: 0.6, ease: EASE }}
       >
         <div className="product-gallery">
-          {product.images.map((src) => (
-            <img key={src} src={asset(src)} alt={product.title} />
-          ))}
+          {product.images.map((src) => {
+            const imgSrc = src.startsWith('/upload/') ? `https://zorgtech.com${src}` : asset(src);
+            return <img key={src} src={imgSrc} alt={product.title} />;
+          })}
         </div>
 
         <div className="product-info">
