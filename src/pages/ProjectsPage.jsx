@@ -1,6 +1,7 @@
 import { motion } from 'motion/react';
 import PageHeader from '../components/PageHeader';
 import { useTitle } from '../lib/useTitle';
+import PROJECTS from '../data/projects';
 
 const EASE = [0.16, 1, 0.3, 1];
 const reveal = (delay = 0) => ({
@@ -15,19 +16,6 @@ const STATS = [
   { num: '70+', label: 'сервисных центров' },
   { num: '3', label: 'страны' },
   { num: '13', label: 'лет опыта' },
-];
-
-const PROJECTS = [
-  { num: '01', meta: 'Транспорт', title: 'Аэропорт Курумоч', text: 'Стойки регистрации и информационные терминалы в зоне вылета.' },
-  { num: '02', meta: 'Культура', title: 'Музей Государственной Думы', text: 'Интерактивная экспозиция с архивными документами и мультимедиа.' },
-  { num: '03', meta: 'Транспорт', title: 'Автовокзал Саларьево', text: 'Автоматизация продажи билетов и информирования пассажиров для Мосгортранса.' },
-  { num: '04', meta: 'Промышленность', title: 'АО «Силовые машины»', text: 'Оснащение рабочих мест интерактивными киосками на производстве.' },
-  { num: '05', meta: 'Медицина', title: 'Поликлиники Москвы', text: 'Масштабный проект: бесконтактные дезинфекторы и интерактивные столы в новых поликлиниках.' },
-  { num: '06', meta: 'Промышленность', title: 'Nordgold', text: 'Автоматизация промышленных процессов в международной золотодобывающей компании.' },
-  { num: '07', meta: 'Культура', title: 'Музей «Государева Дорога»', text: 'Создание интерактивной экспозиции в храмовом комплексе «Завидово».' },
-  { num: '08', meta: 'Нефтегаз', title: 'Телемедицина для месторождений', text: 'Интерактивные киоски для удалённых медицинских консультаций на нефтяных и газовых объектах.' },
-  { num: '09', meta: 'Банки', title: 'Новые стандарты обслуживания', text: 'Внедрение современных стандартов банковского обслуживания через сенсорные терминалы.' },
-  { num: '10', meta: 'Образование', title: 'Безопасный доступ', text: 'Обеспечение бесконтактными дезинфекторами образовательных учреждений.' },
 ];
 
 export default function ProjectsPage() {
@@ -54,11 +42,20 @@ export default function ProjectsPage() {
       <div className="projects-list">
         {PROJECTS.map((p, i) => (
           <motion.div className="project" key={p.title} {...reveal(0.03 * i)}>
-            <div className="project-visual">{p.num}</div>
+            <div
+              className="project-visual"
+              style={p.img ? {
+                backgroundImage: `url(${p.img})`,
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
+              } : {}}
+            >
+              {!p.img && String(i + 1).padStart(2, '0')}
+            </div>
             <div>
               <p className="project-meta">{p.meta}</p>
               <h2>{p.title}</h2>
-              <p>{p.text}</p>
+              {p.text && <p>{p.text}</p>}
             </div>
           </motion.div>
         ))}

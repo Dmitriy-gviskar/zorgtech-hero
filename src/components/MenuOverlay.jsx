@@ -9,7 +9,10 @@ const LINKS = [
   { label: 'Продукция', href: '/catalog' },
   { label: 'Решения', href: '/solutions' },
   { label: 'Проекты', href: '/projects' },
+  { label: 'Доставка', href: '/delivery' },
   { label: 'О компании', href: '/about' },
+  { label: 'Блог', href: '/blog' },
+  { label: 'Поддержка', href: '/support' },
   { label: 'Контакты', href: '/contacts' },
 ];
 

@@ -33,6 +33,20 @@ export default function ContactsPage() {
         </div>
 
         <div className="contact-block">
+          <h2>На карте</h2>
+          <div className="contact-map">
+            <iframe
+              title="Zorgtech на карте"
+              src="https://yandex.ru/map-widget/v1/?ll=37.173936%2C56.739423&z=12&pt=37.173936,56.739423,pm2rdm~37.524438,55.701464,pm2rdm"
+              width="100%"
+              height="320"
+              frameBorder="0"
+              allowFullScreen
+            />
+          </div>
+        </div>
+
+        <div className="contact-block">
           <h2>Напишите нам</h2>
           <form className="cform" action="https://formspree.io/f/example" method="POST">
             <label className="sr-only" htmlFor="cf-name">Имя</label>
