@@ -1,6 +1,7 @@
 import { motion } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
 import PageHeader from '../components/PageHeader';
+import Breadcrumbs from '../components/Breadcrumbs';
 import categories from '../data/categories.json';
 import products from '../data/products.json';
 import { CATEGORIES_META } from '../data/categoriesMeta';
@@ -45,6 +46,11 @@ export default function CategoryPage() {
 
   return (
     <div className="inner-page">
+      <Breadcrumbs items={[
+        { label: 'Главная', to: '/' },
+        { label: 'Каталог', to: '/catalog' },
+        { label: meta?.title ?? category.name },
+      ]} />
       <PageHeader
         back="/catalog"
         backLabel="В каталог"

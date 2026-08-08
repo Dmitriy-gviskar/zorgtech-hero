@@ -802,6 +802,32 @@
   color: var(--accent);
 }
 
+/* ---------- Breadcrumbs ---------- */
+
+.breadcrumbs {
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-bottom: 16px;
+}
+
+.breadcrumbs a {
+  color: rgba(0, 0, 0, 0.6);
+  transition: color 0.15s;
+}
+
+.breadcrumbs a:hover {
+  color: var(--accent);
+}
+
+.breadcrumbs-sep {
+  margin: 0 8px;
+  color: rgba(0, 0, 0, 0.35);
+}
+
+.breadcrumbs-current {
+  color: rgba(0, 0, 0, 0.8);
+}
+
 .page-title {
   font-size: clamp(2rem, 5vw, 3.25rem);
   font-weight: 500;

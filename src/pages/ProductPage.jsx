@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
+import Breadcrumbs from '../components/Breadcrumbs';
 import products from '../data/products.json';
 import { asset } from '../lib/asset';
 import { useTitle } from '../lib/useTitle';
@@ -23,6 +24,12 @@ export default function ProductPage() {
 
   return (
     <div className="inner-page">
+      <Breadcrumbs items={[
+        { label: 'Главная', to: '/' },
+        { label: 'Каталог', to: '/catalog' },
+        { label: product.categoryLabel, to: product.categorySlug ? `/catalog/${product.categorySlug}` : '/catalog' },
+        { label: product.title },
+      ]} />
       <Link to={product.categorySlug ? `/catalog/${product.categorySlug}` : '/catalog'} className="back-link">
         ← {product.categoryLabel || 'В каталог'}
       </Link>
