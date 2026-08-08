@@ -47,7 +47,7 @@ const PROJECTS = [
 
   { meta: 'Ритейл', title: 'Программа лояльности «Эссен»', slug: 'программа-лояльности-эссен' , oldSlug: 'interaktivnye-kioski-dlya-programmy-loyalnosti-v-federalnoy-seti-supermarketov-essen' },
 
-  { meta: 'IT / Телеком', title: 'Инфокиоски для офиса Ростелеком', slug: 'инфокиоски-для-офиса-ростелеком' , oldSlug: 'informatsionnye-kioski-dlya-tsentralnogo-ofisa-kompanii-rostelekom' },
+  { meta: 'IT / Телеком', title: 'Инфокиоски для офиса Ростелеком', slug: 'инфокиоски-для-офиса-ростелеком' , oldSlug: 'informatsionnye-kioski-dlya-tsentralnogo-ofisa-kompanii-rostelekom-' },
 
   { meta: 'Образование', title: 'Гид Учащегося в Ярославле', slug: 'гид-учащегося-в-ярославле' , oldSlug: 'gid-uchashchegosya-dlya-uchilishcha-olimpiyskogo-rezerva' },
 
@@ -62,7 +62,7 @@ const PROJECTS = [
 
   { meta: 'Наука', title: 'Новая модель сенсорного стола для ОИЯИ', slug: 'новая-модель-сенсорного-стола-для-оияи' , oldSlug: 'novaya-model-sensornogo-stola-dlya-oiyai' },
 
-  { meta: 'Спорт', title: 'Киоски для фитнес-индустрии', slug: 'киоски-для-фитнес-индустрии' , oldSlug: 'kioski-dlya-fitnes-industrii' },
+  { meta: 'Спорт', title: 'Киоски для фитнес-индустрии', slug: 'киоски-для-фитнес-индустрии' , oldSlug: 'novyy-shag-v-razvitii-kioski-dlya-fitnes-industrii' },
 
   { meta: 'Культура', title: 'Парк «Зарядье»', slug: 'парк-зарядье' , oldSlug: 'nash-novyy-klient-park-zaryade' },
 
@@ -87,7 +87,7 @@ const PROJECTS = [
 
   { meta: 'Образование', title: 'Киоски для Сретенской духовной семинарии', slug: 'киоски-для-сретенской-духовной-семинарии' , oldSlug: 'nastennye-sensornye-kioski-dlya-sretenskoy-dukhovnoy-seminarii' },
 
-  { meta: 'Культура', title: 'Музей техники Вадима Задорожного', slug: 'музей-техники-вадима-задорожного' , oldSlug: 'sensornye-kioski-dlya-muzeya-tekhniki-vadima-zadorozhnogo' },
+  { meta: 'Культура', title: 'Музей техники Вадима Задорожного', slug: 'музей-техники-вадима-задорожного' , oldSlug: 'sensornye-kioski-dlya-muzeya-tekhniki-vadima-zadorozhnogo-' },
 
   { meta: 'Культура', title: 'Виртуальная примерочная для Музея сословий', slug: 'виртуальная-примерочная-для-музея-сословий' , oldSlug: 'virtualnaya-primerochnaya-dlya-galerei-i-s-glazunova' },
 

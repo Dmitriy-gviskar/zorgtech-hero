@@ -51,6 +51,14 @@ export default function ProjectDetailPage() {
           </div>
         )}
 
+        {content?.inlineImages && content.inlineImages.length > 0 && (
+          <div className="project-detail-gallery">
+            {content.inlineImages.map((img, i) => (
+              <img key={i} src={`/zorgtech-hero/${img}`} alt={`${project.title} — фото ${i+1}`} />
+            ))}
+          </div>
+        )}
+
         <div className="project-detail-body">
           {content?.sections ? (
             content.sections.map((s, i) => (
